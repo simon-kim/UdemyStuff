@@ -1,3 +1,3 @@
-### Udemy Course Stuff
+# Udemy Course Stuff
 
-# Using this repo for studying purposes.
+### Using this repo for studying purposes.
