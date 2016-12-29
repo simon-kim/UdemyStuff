@@ -1,3 +1,7 @@
 {
-	"extends": "rallycoding"
+	"extends": "airbnb",
+  "rules": {
+    "semi": 0,
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }],
+  }
 }
